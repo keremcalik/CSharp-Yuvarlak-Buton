@@ -1,0 +1,9 @@
+D:\C# Projelerim\Yuvarlak Buton\Yuvarlak Buton\bin\Debug\Yuvarlak Buton.exe.config
+D:\C# Projelerim\Yuvarlak Buton\Yuvarlak Buton\bin\Debug\Yuvarlak Buton.exe
+D:\C# Projelerim\Yuvarlak Buton\Yuvarlak Buton\bin\Debug\Yuvarlak Buton.pdb
+D:\C# Projelerim\Yuvarlak Buton\Yuvarlak Buton\obj\Debug\Yuvarlak Buton.csprojResolveAssemblyReference.cache
+D:\C# Projelerim\Yuvarlak Buton\Yuvarlak Buton\obj\Debug\Yuvarlak_Buton.Properties.Resources.resources
+D:\C# Projelerim\Yuvarlak Buton\Yuvarlak Buton\obj\Debug\Yuvarlak Buton.csproj.GenerateResource.Cache
+D:\C# Projelerim\Yuvarlak Buton\Yuvarlak Buton\obj\Debug\Yuvarlak Buton.exe
+D:\C# Projelerim\Yuvarlak Buton\Yuvarlak Buton\obj\Debug\Yuvarlak Buton.pdb
+D:\C# Projelerim\Yuvarlak Buton\Yuvarlak Buton\obj\Debug\Yuvarlak_Buton.Form1.resources
